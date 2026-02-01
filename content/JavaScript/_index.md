@@ -4,7 +4,7 @@ weight: 2
 pre: "<i class='fab fa-js-square'></i>&nbsp; "
 ---
 
-Welcome to our She Codes Australia One Day Workshop. We've put together a fun little tutorial to give you a coding taster for a mini game. 
+Welcome to our She Codes Australia JavaScript Mini Workshop. We've put together a fun little tutorial to give you a coding taster for a mini game. 
 
 The tutorial teaches you the JavaScript component of our cupcake smashing game. You can take your time and read through concepts to understand more about JavaScript, or you can fly through the content and have fun smashing cupcakes! 
 
@@ -12,12 +12,9 @@ At She Codes we firmly believe that coding is **ALWAYS** better with cupcakes!
 
 A preview of the end result is below:
 
-<!-- We need an updated gif once the Template has been changed -->
-![](fullgame.gif)
+![](racgame.gif)
 
-**New to coding?** Watch the video below first for a quick intro to the three languages that power websites - HTML, CSS and JavaScript!
-
-**Already know the basics?** Jump straight into [Getting Started →](getting_started/) and let's build this game!
+**New to coding?** Check out the video below for a quick intro to the three languages that power websites - HTML, CSS and JavaScript! You can catch up on it now, or later on at home.
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
     <iframe 
@@ -30,4 +27,4 @@ A preview of the end result is below:
     </iframe>
 </div>
 
-**After watching the video?** Perfect! Now [let's get started →](getting_started/) with building your cupcake smashing game!
+**Already know the basics?** Jump straight into [Getting Started →](getting_started/) and let's build this game!
