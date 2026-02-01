@@ -1,17 +1,14 @@
-# She Codes Australia Workshop Tutorials
+# She Codes Australia Corporate Tutorials
 
-Welcome to the She Codes Australia One Day Workshop tutorial content! This repository contains all the learning materials for our hands-on coding workshops.
+Welcome to the She Codes Australia tutorial content! This repository contains all the learning materials for our hands-on coding workshops.
 
-🌐 **Live Site:** [https://tutorials.shecodes.com.au](https://tutorials.shecodes.com.au)
+🌐 **Live Site:** [https://racwa.shecodes.com.au](https://racwa.shecodes.com.au)
 
 ## Workshop Content
 
-Our tutorials cover the following topics:
+Our tutorial covers the following topic:
 
-- **HTML & CSS** - Learn the building blocks of web development
 - **JavaScript** - Interactive programming with our Cupcake Smash game
-- **Python** - Space Turtle Chomp adventure and programming fundamentals  
-- **Django** - Build a dynamic Bakery Finder web application
 
 ## Framework and Tools
 
@@ -57,18 +54,7 @@ The site will automatically reload when you make changes to the content.
 
 Deployment is fully automated via Netlify:
 
-- **Production:** Pushes to `main` branch deploy to [https://tutorials.shecodes.com.au](https://tutorials.shecodes.com.au)
-- **Preview:** Other branches create preview deployments at `https://[branch-name]--shecodes-tutorials.netlify.app`
-
-## Content Structure
-
-```
-content/
-├── html_and_css/          # HTML & CSS workshop materials
-├── javascript/            # JavaScript Cupcake Smash game tutorial
-├── python/               # Python programming workshop
-└── django/               # Django web development tutorial
-```
+- **Production:** Pushes to `main` branch deploy to [https://racwa.shecodes.com.au](https://racwa.shecodes.com.au)
 
 ## Contributing
 
